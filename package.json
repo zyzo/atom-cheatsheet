@@ -1,0 +1,20 @@
+{
+  "name": "atom-cheatsheet-pdf-generator",
+  "version": "1.0.0",
+  "description": "Markdown\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D:\u001b[CConvert atom cheatsheet from .md to .pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zyzo/atom-cheatsheet/pdf-generator"
+  },
+  "keywords": [
+    "markdown-pdf",
+    "atom",
+    "cheatsheet"
+  ],
+  "author": "zyzo",
+  "license": "MIT"
+}
