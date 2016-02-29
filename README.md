@@ -6,7 +6,7 @@ Because `Ctrl` > `⌘`
 ## General
 
 |||
-|-|-|
+------------ | -------------
 |`Ctrl`+`,` | Setttings|
 |`Ctrl`+`Shift`+`P` |	Toggle command palette |
 |`Ctrl`+`Alt`+`R` | Reload Atom |
@@ -17,7 +17,7 @@ Because `Ctrl` > `⌘`
 
 ## Files
 |||
-|-|-|
+------------ | -------------
 |`Ctrl`+`N`	| New file |
 |`Ctrl`+`Shift`+`N`|	New Window |
 |`Ctrl`+`O` |	Open file |
@@ -32,7 +32,7 @@ Because `Ctrl` > `⌘`
 
 ## Lines
 |||
-|-|-|
+------------ | -------------
 |`Ctrl`+`G`|	Go to line |
 |`Ctrl`+`L` |	Select line |
 |`Ctrl`+`Shift`+`D` |	Duplicate line|
@@ -42,7 +42,7 @@ Because `Ctrl` > `⌘`
 
 ## Words and Characters
 |||
-|-|-|
+------------ | -------------
 |`Alt`+`←`/`→`	| Move to of previous/next word |
 |`Alt`+`B`/`F`	| Move to of begin/end of word |
 |`Alt`+`Shift`+`B`/`F`	| Select to of begin/end of word |
@@ -50,7 +50,7 @@ Because `Ctrl` > `⌘`
 
 ## Find and Replace
 |||
-|-|-|
+------------ | -------------
 |`Ctrl`+`F` |	Find in current file |
 |`Ctrl`+`Shift`+`F`	| Find in project |
 |`F3`/`Shift`+`F3` | Find next/previous |
@@ -58,17 +58,17 @@ Because `Ctrl` > `⌘`
 
 ## View
 |||
-|-|-|
+------------ | -------------
 |`Ctrl`+`+`/`-` |	Increase / decrease text size |
 |`Ctrl`+`0`	| Reset text size |
 
 ## Tree View
 |||
-|-|-|
+------------ | -------------
 |`Ctrl`+`K` `Ctrl`+`B` |	Toggle tree view |
 ## Pane
 |||
-|-|-|
+------------ | -------------
 |`Ctrl`+`K` `↑`/`↓`/`←`/`→` | Split up/down/left/right |
 |`Ctrl`+`K` `Ctrl`+`↑`/`↓`/`←`/`→` | Focus up/down/left/right |
 |`Ctrl`+`K` `Ctrl`+`W` | Close pane |
@@ -77,10 +77,11 @@ Because `Ctrl` > `⌘`
 ( To install package, use `apm install`)
 
 |Package|||
-|-|-|-|
+------------ | ------------- | ------------
 |open-in-browser |`Ctrl`+`Alt`+`Q` | Open in browser
 |minimap | `minimap:toggle` | Toggle minimap |
 |linter ||||
+|git-plus |||
 
 
 ## Sources
