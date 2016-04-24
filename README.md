@@ -1,5 +1,7 @@
 # Atom Keyboard Shortcuts for Windows and Linux
 
+[Download PDF](https://github.com/zyzo/atom-cheatsheet/blob/master/README.pdf)
+
 ## Motivation
 
 Because `Ctrl` > `⌘`
