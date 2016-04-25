@@ -15,7 +15,7 @@ Because `Ctrl` > `⌘`
 |`Ctrl`+`.` | Toggle Key Binding Resolver |
 |`Alt`+`Shift`+`S` | Show snippets |
 
-## Files
+## Files & Folders
 |||
 ------------ | -------------
 |`Ctrl`+`N`	| New file |
@@ -66,6 +66,9 @@ Because `Ctrl` > `⌘`
 |||
 ------------ | -------------
 |`Ctrl`+`K` `Ctrl`+`B` |	Toggle tree view |
+|`A` | Add file |
+|`Shift` + `A` | Add folder |
+
 ## Pane
 |||
 ------------ | -------------
