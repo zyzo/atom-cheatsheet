@@ -1,6 +1,7 @@
-html, body, th, td, code {
-  font-size: 7px;
-  margin: 0
+html, body, th, td, code, head {
+  font-size: 9px;
+  margin: 0;
+  font-weight: bold;
 }
 h2, h3 {
   font-size: 10px;

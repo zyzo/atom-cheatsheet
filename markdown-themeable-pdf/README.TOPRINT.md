@@ -18,7 +18,6 @@
 |`Ctrl`+`O` |	Open file |
 |`Ctrl`+`P` |	Open file (using search)|
 |`Ctrl`+`Shift`+`O` |	Open folder |
-|`Ctrl`+ `S` |	Save |
 |`Ctrl`+ `Shift` + `S` |	Save as |
 |`Ctrl`+`Tab`/`Ctrl`+`Shift`+`Tab` | Move to next/previous tab|
 |`Alt`+`[1-9]` | Show Specific Tab |
@@ -50,12 +49,6 @@
 |`Ctrl`+`Shift`+`F`	| Find in project |
 |`F3`/`Shift`+`F3` | Find next/previous |
 |`Ctrl`+`Enter` |	Replace all |
-
-## View
-|||
------------- | -------------
-|`Ctrl`+`+`/`-` |	Increase / decrease text size |
-|`Ctrl`+`0`	| Reset text size |
 
 ## Tree View
 |||
