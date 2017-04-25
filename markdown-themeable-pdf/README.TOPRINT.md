@@ -9,6 +9,7 @@
 |`Ctrl`+`Alt`+`I` | Toggle Developer Tools |
 |`Ctrl`+`.` | Toggle Key Binding Resolver |
 |`Alt`+`Shift`+`S` | Show snippets |
+|`Ctrl`+`\` | Toggle Tree View |
 
 ## Files & Folders
 |||
