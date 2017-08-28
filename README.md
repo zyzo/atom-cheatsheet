@@ -9,7 +9,7 @@ Because `Ctrl` > `⌘`
 
 |||
 ------------ | -------------
-|`Ctrl`+`,` | Setttings|
+|`Ctrl`+`,` | Settings|
 |`Ctrl`+`Shift`+`P` |	Toggle command palette |
 |`Ctrl`+`Alt`+`R` | Reload Atom |
 |`Ctrl`+`Shift`+`M` | Markdown Preview |
