@@ -24,6 +24,7 @@ Because `Ctrl` > `⌘`
 |`Ctrl`+`Shift`+`N`|	New Window |
 |`Ctrl`+`O` |	Open file |
 |`Ctrl`+`P` |	Open file (using search)|
+|`Ctrl`+`T` |	Find file (using fuzzy finder)|
 |`Ctrl`+`Shift`+`O` |	Open folder |
 |`Ctrl`+ `S` |	Save |
 |`Ctrl`+ `Shift` + `S` |	Save as |
